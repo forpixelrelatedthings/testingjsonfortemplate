@@ -1,0 +1,15 @@
+{
+    "faction": "testing",
+    "contact": "testing",
+    "templates": [
+        {
+            "name": "testingT",
+            "sources": [
+                "https://imgur.com/a/76r64P6"
+            ],
+            "x": 0,
+            "y": 0
+        }
+    ],
+    "whitelist": []
+}
